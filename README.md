@@ -50,6 +50,7 @@ As a QA Automation Engineer, automate the testing of a web application’s authe
 - CSV (data-driven testing)
 
 ---
+
 🔑 Test Credentials  
 ✅ Valid Users  
 admin@example.com / Admin@123  
@@ -60,6 +61,9 @@ Wrong email
 Wrong password  
 Empty fields  
 
+---
+
+
 🧪 Run Automation Tests  
 Run all tests  
 python -m pytest -v  
@@ -69,6 +73,9 @@ python -m pytest -m smoke -v
 
 Run Regression tests  
 python -m pytest -m regression -v  
+
+---
+
 
 📊 Reports & Logs  
 ✅ HTML Report  
@@ -98,8 +105,11 @@ Constraints Covered
 ✔ Synchronization handled using waits  
 ✔ Standard QA automation practices (POM + fixtures + logs + reports)  
 
+---
+
 🏁 Final Output  
 ✔ Total Test Cases Executed: 7  
 ✔ Result: All Passed Successfully  
 ✔ HTML Report Generated  
 ✔ Logs Generated  
+
