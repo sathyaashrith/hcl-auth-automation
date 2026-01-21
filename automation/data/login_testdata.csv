@@ -1,0 +1,5 @@
+email,password,expected
+admin@example.com,Admin@123,Login successful!
+admin@example.com,wrongpass,Invalid email or password!
+wrong@example.com,Admin@123,Invalid email or password!
+,,Email and Password are required!

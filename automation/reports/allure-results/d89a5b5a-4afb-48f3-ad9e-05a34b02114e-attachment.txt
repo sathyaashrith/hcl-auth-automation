@@ -1,0 +1,2 @@
+[32mINFO    [0m HCL-AUTH-AUTOMATION:test_forgot_password.py:9 Starting Forgot Password Test
+[32mINFO    [0m HCL-AUTH-AUTOMATION:test_forgot_password.py:22 Expected: Email is required! | Actual: Email is required!

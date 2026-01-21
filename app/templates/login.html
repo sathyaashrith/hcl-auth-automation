@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login - HCL Auth</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h2>Login</h2>
+
+    <form method="POST" id="loginForm">
+        <label>Email</label>
+        <input type="text" name="email" id="email" placeholder="Enter email">
+
+        <label>Password</label>
+        <input type="password" name="password" id="password" placeholder="Enter password">
+
+        <button type="submit" id="loginBtn">Login</button>
+    </form>
+
+    <p class="link">
+        <a href="/forgot-password" id="forgotLink">Forgot Password?</a>
+    </p>
+
+    {% if message %}
+        <div id="messageBox" class="msg {{status}}">
+            {{ message }}
+        </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

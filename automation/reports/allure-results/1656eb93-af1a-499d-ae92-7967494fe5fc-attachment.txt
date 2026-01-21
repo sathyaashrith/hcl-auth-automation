@@ -1,0 +1,2 @@
+[32mINFO    [0m HCL-AUTH-AUTOMATION:test_login.py:9 Starting Login Test
+[32mINFO    [0m HCL-AUTH-AUTOMATION:test_login.py:17 Expected: Login successful! | Actual: Login successful!

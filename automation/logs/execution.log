@@ -1,0 +1,218 @@
+2026-01-21 12:38:57,170 | INFO | Launching browser...
+2026-01-21 12:39:07,934 | INFO | Starting Forgot Password Test
+2026-01-21 12:39:08,616 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 12:39:08,617 | INFO | Closing browser...
+2026-01-21 12:39:15,209 | INFO | Launching browser...
+2026-01-21 12:39:19,561 | INFO | Starting Forgot Password Test
+2026-01-21 12:39:19,954 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 12:39:19,955 | INFO | Closing browser...
+2026-01-21 12:39:26,436 | INFO | Launching browser...
+2026-01-21 12:39:29,432 | INFO | Starting Forgot Password Test
+2026-01-21 12:39:29,769 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 12:39:29,770 | INFO | Closing browser...
+2026-01-21 12:39:36,210 | INFO | Launching browser...
+2026-01-21 12:39:39,314 | INFO | Starting Login Test
+2026-01-21 12:39:39,981 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 12:39:39,982 | INFO | Closing browser...
+2026-01-21 12:39:46,496 | INFO | Launching browser...
+2026-01-21 12:39:51,668 | INFO | Starting Login Test
+2026-01-21 12:39:52,305 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:39:52,306 | INFO | Closing browser...
+2026-01-21 12:39:58,891 | INFO | Launching browser...
+2026-01-21 12:40:01,791 | INFO | Starting Login Test
+2026-01-21 12:40:02,328 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:40:02,330 | INFO | Closing browser...
+2026-01-21 12:40:13,659 | INFO | Launching browser...
+2026-01-21 12:40:16,602 | INFO | Starting Forgot Password Test
+2026-01-21 12:40:17,063 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 12:40:17,065 | INFO | Closing browser...
+2026-01-21 12:40:23,572 | INFO | Launching browser...
+2026-01-21 12:40:26,587 | INFO | Starting Forgot Password Test
+2026-01-21 12:40:26,941 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 12:40:26,942 | INFO | Closing browser...
+2026-01-21 12:40:33,347 | INFO | Launching browser...
+2026-01-21 12:40:36,234 | INFO | Starting Forgot Password Test
+2026-01-21 12:40:36,569 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 12:40:36,571 | INFO | Closing browser...
+2026-01-21 12:40:43,088 | INFO | Launching browser...
+2026-01-21 12:40:46,999 | INFO | Starting Login Test
+2026-01-21 12:40:47,523 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 12:40:47,524 | INFO | Closing browser...
+2026-01-21 12:40:54,113 | INFO | Launching browser...
+2026-01-21 12:40:58,629 | INFO | Starting Login Test
+2026-01-21 12:40:59,222 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:40:59,224 | INFO | Closing browser...
+2026-01-21 12:41:05,738 | INFO | Launching browser...
+2026-01-21 12:41:10,303 | INFO | Starting Login Test
+2026-01-21 12:41:10,875 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:41:10,876 | INFO | Closing browser...
+2026-01-21 12:41:17,393 | INFO | Launching browser...
+2026-01-21 12:41:20,262 | INFO | Starting Login Test
+2026-01-21 12:41:20,673 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 12:41:20,675 | INFO | Closing browser...
+2026-01-21 12:42:15,590 | INFO | Launching browser...
+2026-01-21 12:42:18,558 | INFO | Starting Forgot Password Test
+2026-01-21 12:42:18,987 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 12:42:18,988 | INFO | Closing browser...
+2026-01-21 12:42:25,404 | INFO | Launching browser...
+2026-01-21 12:42:28,523 | INFO | Starting Forgot Password Test
+2026-01-21 12:42:28,915 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 12:42:28,917 | INFO | Closing browser...
+2026-01-21 12:42:35,423 | INFO | Launching browser...
+2026-01-21 12:42:39,647 | INFO | Starting Forgot Password Test
+2026-01-21 12:42:40,116 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 12:42:40,117 | INFO | Closing browser...
+2026-01-21 12:42:47,616 | INFO | Launching browser...
+2026-01-21 12:42:52,066 | INFO | Starting Login Test
+2026-01-21 12:42:52,583 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 12:42:52,585 | INFO | Closing browser...
+2026-01-21 12:42:59,116 | INFO | Launching browser...
+2026-01-21 12:43:03,520 | INFO | Starting Login Test
+2026-01-21 12:43:04,159 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:43:04,160 | INFO | Closing browser...
+2026-01-21 12:43:10,834 | INFO | Launching browser...
+2026-01-21 12:43:15,496 | INFO | Starting Login Test
+2026-01-21 12:43:16,095 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:43:16,096 | INFO | Closing browser...
+2026-01-21 12:43:22,654 | INFO | Launching browser...
+2026-01-21 12:43:27,263 | INFO | Starting Login Test
+2026-01-21 12:43:27,897 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 12:43:27,898 | INFO | Closing browser...
+2026-01-21 12:44:11,325 | INFO | Launching browser (SESSION)...
+2026-01-21 12:44:14,171 | INFO | Starting Forgot Password Test
+2026-01-21 12:44:14,567 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 12:44:14,571 | INFO | Starting Forgot Password Test
+2026-01-21 12:44:14,930 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 12:44:14,933 | INFO | Starting Forgot Password Test
+2026-01-21 12:44:15,164 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 12:44:15,167 | INFO | Starting Login Test
+2026-01-21 12:44:15,577 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 12:44:15,580 | INFO | Starting Login Test
+2026-01-21 12:44:15,959 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:44:15,963 | INFO | Starting Login Test
+2026-01-21 12:44:16,414 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:44:16,418 | INFO | Starting Login Test
+2026-01-21 12:44:16,754 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 12:44:16,755 | INFO | Closing browser (SESSION)...
+2026-01-21 12:45:49,963 | INFO | Launching browser (SESSION)...
+2026-01-21 12:45:54,053 | INFO | Starting Forgot Password Test
+2026-01-21 12:45:54,562 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 12:45:54,576 | INFO | Starting Forgot Password Test
+2026-01-21 12:45:55,012 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 12:45:55,020 | INFO | Starting Forgot Password Test
+2026-01-21 12:45:55,264 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 12:45:55,272 | INFO | Starting Login Test
+2026-01-21 12:45:55,729 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 12:45:55,741 | INFO | Starting Login Test
+2026-01-21 12:45:56,231 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:45:56,243 | INFO | Starting Login Test
+2026-01-21 12:45:56,757 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:45:56,772 | INFO | Starting Login Test
+2026-01-21 12:45:57,225 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 12:45:57,229 | INFO | Closing browser (SESSION)...
+2026-01-21 12:53:32,442 | INFO | Launching browser (SESSION)...
+2026-01-21 12:53:35,670 | INFO | Starting Forgot Password Test
+2026-01-21 12:53:40,744 | INFO | Starting Forgot Password Test
+2026-01-21 12:53:45,038 | INFO | Starting Forgot Password Test
+2026-01-21 12:53:47,360 | INFO | Starting Login Test
+2026-01-21 12:53:51,355 | INFO | Starting Login Test
+2026-01-21 12:53:53,699 | INFO | Starting Login Test
+2026-01-21 12:53:57,729 | INFO | Starting Login Test
+2026-01-21 12:54:00,095 | INFO | Closing browser (SESSION)...
+2026-01-21 12:56:10,419 | INFO | Launching browser (SESSION)...
+2026-01-21 12:56:13,520 | INFO | Starting Forgot Password Test
+2026-01-21 12:56:13,960 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 12:56:13,964 | INFO | Starting Forgot Password Test
+2026-01-21 12:56:14,265 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 12:56:14,268 | INFO | Starting Forgot Password Test
+2026-01-21 12:56:14,576 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 12:56:14,579 | INFO | Starting Login Test
+2026-01-21 12:56:15,008 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 12:56:15,011 | INFO | Starting Login Test
+2026-01-21 12:56:15,533 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:56:15,537 | INFO | Starting Login Test
+2026-01-21 12:56:16,031 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 12:56:16,037 | INFO | Starting Login Test
+2026-01-21 12:56:16,490 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 12:56:16,492 | INFO | Closing browser (SESSION)...
+2026-01-21 14:00:19,890 | INFO | Launching browser (SESSION)...
+2026-01-21 14:00:24,751 | INFO | Starting Forgot Password Test
+2026-01-21 14:00:29,728 | INFO | Starting Forgot Password Test
+2026-01-21 14:00:33,989 | INFO | Starting Forgot Password Test
+2026-01-21 14:00:36,299 | INFO | Closing browser (SESSION)...
+2026-01-21 14:02:25,196 | INFO | Launching browser (SESSION)...
+2026-01-21 14:02:28,536 | INFO | Starting Forgot Password Test
+2026-01-21 14:02:29,192 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 14:02:29,196 | INFO | Starting Forgot Password Test
+2026-01-21 14:02:29,483 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 14:02:29,486 | INFO | Starting Forgot Password Test
+2026-01-21 14:02:29,716 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 14:02:29,716 | INFO | Closing browser (SESSION)...
+2026-01-21 14:03:08,924 | INFO | Launching browser (SESSION)...
+2026-01-21 14:03:12,389 | INFO | Starting Forgot Password Test
+2026-01-21 14:03:12,847 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 14:03:12,853 | INFO | Starting Forgot Password Test
+2026-01-21 14:03:13,187 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 14:03:13,189 | INFO | Starting Forgot Password Test
+2026-01-21 14:03:13,453 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 14:03:13,455 | INFO | Starting Login Test
+2026-01-21 14:03:13,881 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 14:03:13,884 | INFO | Starting Login Test
+2026-01-21 14:03:14,262 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 14:03:14,265 | INFO | Starting Login Test
+2026-01-21 14:03:14,628 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 14:03:14,630 | INFO | Starting Login Test
+2026-01-21 14:03:15,035 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 14:03:15,036 | INFO | Closing browser (SESSION)...
+2026-01-21 14:03:29,960 | INFO | Launching browser (SESSION)...
+2026-01-21 14:03:32,942 | INFO | Starting Forgot Password Test
+2026-01-21 14:03:33,319 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 14:03:33,323 | INFO | Starting Forgot Password Test
+2026-01-21 14:03:33,648 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 14:03:33,650 | INFO | Starting Forgot Password Test
+2026-01-21 14:03:33,874 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 14:03:33,876 | INFO | Starting Login Test
+2026-01-21 14:03:34,314 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 14:03:34,317 | INFO | Starting Login Test
+2026-01-21 14:03:34,698 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 14:03:34,701 | INFO | Starting Login Test
+2026-01-21 14:03:35,090 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 14:03:35,093 | INFO | Starting Login Test
+2026-01-21 14:03:35,450 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 14:03:35,451 | INFO | Closing browser (SESSION)...
+2026-01-21 14:05:37,099 | INFO | Starting Flask server automatically...
+2026-01-21 14:05:37,129 | INFO | Launching browser (SESSION)...
+2026-01-21 14:05:40,556 | INFO | Starting Forgot Password Test
+2026-01-21 14:05:41,145 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 14:05:41,149 | INFO | Starting Forgot Password Test
+2026-01-21 14:05:41,415 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 14:05:41,417 | INFO | Starting Forgot Password Test
+2026-01-21 14:05:41,699 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 14:05:41,701 | INFO | Starting Login Test
+2026-01-21 14:05:42,082 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 14:05:42,084 | INFO | Starting Login Test
+2026-01-21 14:05:42,518 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 14:05:42,521 | INFO | Starting Login Test
+2026-01-21 14:05:42,881 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 14:05:42,884 | INFO | Starting Login Test
+2026-01-21 14:05:43,211 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 14:05:43,214 | INFO | Closing browser (SESSION)...
+2026-01-21 14:05:45,688 | INFO | Stopping Flask server automatically...
+2026-01-21 14:07:15,453 | INFO | Starting Flask server automatically...
+2026-01-21 14:07:15,480 | INFO | Launching browser (SESSION)...
+2026-01-21 14:07:18,866 | INFO | Starting Forgot Password Test
+2026-01-21 14:07:19,373 | INFO | Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
+2026-01-21 14:07:19,377 | INFO | Starting Forgot Password Test
+2026-01-21 14:07:19,723 | INFO | Expected: Email not registered! | Actual: Email not registered!
+2026-01-21 14:07:19,726 | INFO | Starting Forgot Password Test
+2026-01-21 14:07:20,042 | INFO | Expected: Email is required! | Actual: Email is required!
+2026-01-21 14:07:20,045 | INFO | Starting Login Test
+2026-01-21 14:07:20,471 | INFO | Expected: Login successful! | Actual: Login successful!
+2026-01-21 14:07:20,476 | INFO | Starting Login Test
+2026-01-21 14:07:20,997 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 14:07:21,003 | INFO | Starting Login Test
+2026-01-21 14:07:21,530 | INFO | Expected: Invalid email or password! | Actual: Invalid email or password!
+2026-01-21 14:07:21,535 | INFO | Starting Login Test
+2026-01-21 14:07:21,884 | INFO | Expected: Email and Password are required! | Actual: Email and Password are required!
+2026-01-21 14:07:21,885 | INFO | Closing browser (SESSION)...
+2026-01-21 14:07:24,175 | INFO | Stopping Flask server automatically...

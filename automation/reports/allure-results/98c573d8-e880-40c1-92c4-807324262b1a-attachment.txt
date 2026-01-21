@@ -1,0 +1,3 @@
+[32mINFO    [0m HCL-AUTH-AUTOMATION:test_login.py:9 Starting Login Test
+[32mINFO    [0m HCL-AUTH-AUTOMATION:test_login.py:17 Expected: Email and Password are required! | Actual: Email and Password are required!
+[32mINFO    [0m HCL-AUTH-AUTOMATION:conftest.py:31 Closing browser (SESSION)...

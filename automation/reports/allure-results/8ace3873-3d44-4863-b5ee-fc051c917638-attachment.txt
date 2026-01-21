@@ -1,0 +1,3 @@
+[32mINFO    [0m HCL-AUTH-AUTOMATION:conftest.py:21 Launching browser (SESSION)...
+[32mINFO    [0m HCL-AUTH-AUTOMATION:test_forgot_password.py:9 Starting Forgot Password Test
+[32mINFO    [0m HCL-AUTH-AUTOMATION:test_forgot_password.py:22 Expected: Password reset link sent successfully! | Actual: Password reset link sent successfully!
