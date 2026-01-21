@@ -6,6 +6,9 @@ It includes:
 - Login Page
 - Forgot Password Feature
 - Error Message Validations
+  
+---
+
 
 The project is implemented using:
 - **Flask** (to build the demo authentication web application)
@@ -90,6 +93,8 @@ automation/logs/execution.log
 Screenshots are saved when tests fail:  
 automation/screenshots/failed_tests/  
 
+---
+
 ✅ Case Study Requirements Mapping  
 Tasks Covered  
 Automated login functionality (valid + invalid credentials)  
@@ -99,6 +104,8 @@ Used Pytest to structure test cases
 Implemented reusable utilities + fixtures  
 Generated execution logs + HTML report  
 Handled waits and synchronization issues  
+
+---
 
 Constraints Covered  
 ✔ Data-driven tests using CSV  
@@ -112,4 +119,9 @@ Constraints Covered
 ✔ Result: All Passed Successfully  
 ✔ HTML Report Generated  
 ✔ Logs Generated  
+
+---
+
+<img width="1917" height="950" alt="Screenshot 2026-01-21 152123" src="https://github.com/user-attachments/assets/2daf0d5b-c7f1-4447-855e-954b2ad46031" />
+<img width="1919" height="959" alt="Screenshot 2026-01-21 152139" src="https://github.com/user-attachments/assets/a3a628fc-9c8f-4c3f-9d5f-6e5b2b908d8d" />
 
